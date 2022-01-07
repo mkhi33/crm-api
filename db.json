@@ -1,0 +1,20 @@
+{
+  "clientes": [
+    {
+      "nombre": "Rodriguez",
+      "empresa": "UNAH",
+      "email": "aar.velasquez@gmail.com",
+      "telefono": "95047947",
+      "notas": "Cliente nuevo",
+      "id": 2
+    },
+    {
+      "nombre": "Antonio",
+      "empresa": "UNAH",
+      "email": "aarodriguezv@unah.hn",
+      "telefono": "9899898",
+      "notas": "",
+      "id": 3
+    }
+  ]
+}
